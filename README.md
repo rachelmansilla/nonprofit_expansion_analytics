@@ -33,8 +33,7 @@ A local educational nonprofit wanted to identify which recruitment strategies ge
 ## Repository Contents
 
 - `README.md` – Project overview, objectives, findings, and recommendations.
-- `sql/` – SQL queries used to explore and analyze the data.
-- `images/` – Visualizations and dashboard screenshots.
+- `images/` – Project visualizations.
 - `report/` – Final business report (anonymized).
 
 ## Skills Demonstrated
@@ -66,7 +65,9 @@ This comparison highlights the relationship between initial parent outreach and 
 
 ![Parent Contacts vs. Percent of Scholar Matches](images/parent_contact_vs_percent_of_matches.png)
 
+## Final Report
 
+The complete anonymized consulting report is available in the `report` folder.
 
 
 
