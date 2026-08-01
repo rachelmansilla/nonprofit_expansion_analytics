@@ -47,6 +47,8 @@ A local educational nonprofit wanted to identify which recruitment strategies ge
 - Strategic recommendations
 
 ## Visualizations
+The following visualizations summarize the key analytical findings and informed the strategic recommendations presented in the final report.
+
 ### Recruitment Funnel Heatmap
 This heatmap visualizes conversion rates across the recruitment funnel by outreach source, highlighting where prospective scholars were most likely to progress and where the greatest attrition occurred.
 
