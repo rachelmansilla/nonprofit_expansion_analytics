@@ -45,3 +45,26 @@ A local educational nonprofit wanted to identify which recruitment strategies ge
 - Recruitment funnel analysis
 - Data visualization
 - Strategic recommendations
+
+## Visualizations
+### Recruitment Funnel Heatmap
+This heatmap visualizes conversion rates across the recruitment funnel by outreach source, highlighting where prospective scholars were most likely to progress and where the greatest attrition occurred.
+
+![Recruitment Funnel Heatmap](images/recruitment_funnel_heatmap.png)
+
+### Cost per Successful Scholar Match
+
+This visualization compares the cost per successful scholar match across recruitment channels, helping identify which outreach strategies delivered the greatest return on investment and where recruitment resources could be allocated more effectively.
+
+![Cost per Successful Scholar Match](images/cost_per_match.png)
+
+### Parent Contacts vs. Percent of Scholar Matches
+
+This comparison highlights the relationship between initial parent outreach and successful scholar matches by recruitment source. It demonstrates that higher outreach volume did not necessarily translate into more scholar matches, reinforcing the importance of prioritizing high-converting recruitment channels over simply increasing outreach.
+
+![Parent Contacts vs. Percent of Scholar Matches](images/parent_contact_vs_percent_of_matches.png)
+
+
+
+
+
